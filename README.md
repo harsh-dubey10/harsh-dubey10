@@ -1,6 +1,5 @@
 # Hey there, I'm Harsh! 👋
 
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Waving bear" width="200" />
 
 ### 🔭 M.Tech CSE @ IIT Gandhinagar
 
